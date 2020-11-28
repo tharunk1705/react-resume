@@ -1,8 +1,5 @@
 import React from "react";
-import xpens from "../xpens.png"
-import quotegen from "../quotegen.png"
-import rapidtip from "../rapidtip.png"
-import taskmaker from "../taskmaker.png"
+
 const Projects = () => {
     return(
         <section className="resume-section" id="projects">
