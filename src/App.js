@@ -6,11 +6,20 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import './App.css';
 
+// Toastify
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
+
 const App = () => {
+
+  toast.success("For a better experience view on Desktop");
+
   return(
-    <div id="page-top">
+    <div id="page-top">    
       <Navbar />
       <div className="container-fluid p-0">
+        <ToastContainer position="bottom-center" />  
         <About />
         <hr class="m-0" />
         <Education />
