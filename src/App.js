@@ -21,13 +21,13 @@ const App = () => {
       <div className="container-fluid p-0">
         <ToastContainer position="bottom-center" />  
         <About />
-        <hr class="m-0" />
+        <hr className="m-0" />
         <Education />
-        <hr class="m-0" />
+        <hr className="m-0" />
         <Skills />
-        <hr class="m-0" />
+        <hr className="m-0" />
         <Projects />
-        <hr class="m-0" />
+        <hr className="m-0" />
       </div>
     </div>
   );

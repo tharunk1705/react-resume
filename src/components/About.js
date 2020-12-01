@@ -8,18 +8,18 @@ const About = () => {
                        Tharun
                         <span className="text-primary"> Kumar</span>
                     </h1>
-                    <p className="lead mb-5">
+                    <div className="lead mb-5">
                         <ul>
                             <li> Highly focused engineering graduate seeking an entry-level job in an organisation where I can improve my skills and also contribute to the growth of the organisation.</li>
-                            <li> Having experience being part of a Magazine designing team for my college Silver Jubilee I have learnt how to engage with people and collaborate on a crucial project.</li>
-                            <li> Proficient in developing JavaScript and React based Web Applications.</li>
+                            <li> Having experience being part of the technical team for my college Silver Jubilee and various other events, I have learnt how to engage with people and collaborate on a crucial project.</li>
+                            <li> Currently learning to develop JavaScript and React based Web Applications.</li>
                         </ul>
-                    </p>
+                    </div>
                     <div className="social-icons">
-                        <a className="social-icon" href="www.linkedin.com/in/tharunk1705"><i className="fab fa-linkedin-in"></i></a>
-                        <a className="social-icon" href="https://github.com/tharunk1705"><i className="fab fa-github"></i></a>
-                        <a className="social-icon" href="https://github.com/tharunk1705"><i className="fab fa-twitter"></i></a>
-                        <a className="social-icon" href="mailto:tharunk1705@gmail.com"><i class="far fa-envelope"></i></a>
+                        <a className="social-icon" href="https://www.linkedin.com/in/tharunk1705" target="_blank"><i className="fab fa-linkedin-in"></i></a>
+                        <a className="social-icon" href="https://github.com/tharunk1705" target="_blank"><i className="fab fa-github"></i></a>
+                        <a className="social-icon" href="https://twitter.com/tharunk1705" target="_blank"><i className="fab fa-twitter"></i></a>
+                        <a className="social-icon" href="mailto:tharunk1705@gmail.com" target="_blank"><i className="far fa-envelope"></i></a>
                     </div>
                 </div>
         </section>
