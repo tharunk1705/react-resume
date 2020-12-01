@@ -16,10 +16,10 @@ const About = () => {
                         </ul>
                     </div>
                     <div className="social-icons">
-                        <a className="social-icon" href="https://www.linkedin.com/in/tharunk1705" target="_blank"><i className="fab fa-linkedin-in"></i></a>
-                        <a className="social-icon" href="https://github.com/tharunk1705" target="_blank"><i className="fab fa-github"></i></a>
-                        <a className="social-icon" href="https://twitter.com/tharunk1705" target="_blank"><i className="fab fa-twitter"></i></a>
-                        <a className="social-icon" href="mailto:tharunk1705@gmail.com" target="_blank"><i className="far fa-envelope"></i></a>
+                        <a className="social-icon" href="https://www.linkedin.com/in/tharunk1705" target="_blank" rel="noreferrer"><i className="fab fa-linkedin-in"></i></a>
+                        <a className="social-icon" href="https://github.com/tharunk1705" target="_blank" rel="noreferrer"><i className="fab fa-github"></i></a>
+                        <a className="social-icon" href="https://twitter.com/tharunk1705" target="_blank" rel="noreferrer"><i className="fab fa-twitter"></i></a>
+                        <a className="social-icon" href="mailto:tharunk1705@gmail.com" target="_blank" rel="noreferrer"><i className="far fa-envelope"></i></a>
                     </div>
                 </div>
         </section>
