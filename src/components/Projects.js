@@ -12,7 +12,7 @@ const Projects = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Kwando!</h5>
                                 <p className="card-text">A simple webpage to display our college symposium events.</p>
-                                <a href="https://kwando.netlify.app/" target="_blank" className="project-btn btn btn-primary">Visit Now!</a>
+                                <a href="https://kwando.netlify.app/" target="_blank" rel="noreferrer" className="project-btn btn btn-primary">Visit Now!</a>
                             </div>
                         </div>
                     </div>
@@ -21,7 +21,7 @@ const Projects = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Weather App</h5>
                                 <p className="card-text">A simple web application to display the current weather.</p>
-                                <a href="https://willitrain.netlify.app/" target="_blank" className="project-btn btn btn-primary">Visit Now!</a>
+                                <a href="https://willitrain.netlify.app/" target="_blank" rel="noreferrer" className="project-btn btn btn-primary">Visit Now!</a>
                             </div>
                         </div>
                     </div>
@@ -30,7 +30,7 @@ const Projects = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Todos Today</h5>
                                 <p className="card-text">A simple web application made with angular to create/manage todos.</p>
-                                <a href="https://todostoday.vercel.app/" target="_blank" className="project-btn btn btn-primary">Visit Now!</a>
+                                <a href="https://todostoday.vercel.app/" target="_blank" rel="noreferrer" className="project-btn btn btn-primary">Visit Now!</a>
                             </div>
                         </div>
                     </div>
@@ -39,7 +39,7 @@ const Projects = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Rapid Tip</h5>
                                 <p className="card-text">A simple web application to calculate tips and to split bill.</p>
-                                <a href="https://rapid-tip.netlify.app/" target="_blank" className="project-btn btn btn-primary">Visit Now!</a>
+                                <a href="https://rapid-tip.netlify.app/" target="_blank" rel="noreferrer" className="project-btn btn btn-primary">Visit Now!</a>
                             </div>
                         </div>
                     </div>
