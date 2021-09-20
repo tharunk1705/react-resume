@@ -10131,4 +10131,11 @@ li{
 }
 .card-body{
   position:relative;
+  height: 30vh;
+}
+
+.project-btn {
+  margin: 10px 0;
+  position: absolute;
+  bottom: 10px;
 }
