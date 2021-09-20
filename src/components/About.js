@@ -10,9 +10,9 @@ const About = () => {
                     </h1>
                     <div className="lead mb-5">
                         <ul>
-                            <li> Highly focused engineering graduate seeking an entry-level job in an organisation where I can improve my skills and also contribute to the growth of the organisation.</li>
-                            <li> Having experience being part of the technical team for my college Silver Jubilee and various other events, I have learnt how to engage with people and collaborate on a crucial project.</li>
-                            <li> Currently learning to develop JavaScript and React based Web Applications.</li>
+                            <li> I am a Full Stack Developer with a Bachelors degree in Computer Science and Engineering from Jerusalem college of Engineering, Chennai.</li>
+                            <li> My interests lie in developing responsive and interactive web applications.</li>
+                            <li> Currently - Programmer Analyst Trainee at Cognizant</li>
                         </ul>
                     </div>
                     <div className="social-icons">

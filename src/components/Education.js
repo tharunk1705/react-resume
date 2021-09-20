@@ -12,7 +12,7 @@ const Education = () => {
                             <div>Computer Science and Engineering</div>
                             <p>CGPA: 7.5</p>
                         </div>
-                        <div className="flex-shrink-0"><span className="text-primary">September 2017 - Present</span></div>
+                        <div className="flex-shrink-0"><span className="text-primary">September 2017 - September 2021</span></div>
                     </div>
                     <div className="d-flex flex-column flex-md-row justify-content-between">
                         <div className="flex-grow-1">

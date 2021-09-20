@@ -14,26 +14,9 @@ const Skills = () => {
                     <li className="list-inline-item"><i className="fab fa-js-square"></i></li>
                     <li className="list-inline-item"><i className="fab fa-react"></i></li>
                     <li className="list-inline-item"><i className="fab fa-node-js"></i></li>
+                    <li className="list-inline-item"><i class="fab fa-java"></i></li>
+                    <li className="list-inline-item"><i class="fab fa-angular"></i></li>
                 </ul>
-                {/* <div class="subheading mb-3">Workflow</div>
-                <ul class="fa-ul mb-0">
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>
-                        Mobile-First, Responsive Design
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>
-                        Cross Browser Testing & Debugging
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>
-                        Cross Functional Teams
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>
-                        Agile Development & Scrum
-                    </li>
-                </ul> */}
             </div>
         </section>
     )
