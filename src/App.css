@@ -10134,6 +10134,12 @@ li{
   height: 30vh;
 }
 
+@media (max-width : 600px) {
+  .card-body {
+    height:  40vh;
+  }
+}
+
 .project-btn {
   margin: 10px 0;
   position: absolute;
