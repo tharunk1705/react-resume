@@ -10131,7 +10131,7 @@ li{
 }
 .card-body{
   position:relative;
-  height: 30vh;
+  height: 300px;
 }
 
 @media (max-width : 600px) {
